@@ -33,17 +33,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/WorkT/ITSchool/ProjectTest/CopyAutomationProject/src/test/resources&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/WorkT/ITSchool/ProjectTest/CopyAutomationProject/src/main/java/org/example/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.AlertsTest.testMethod.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/WorkT/ITSchool/ProjectTest/CopyAutomationProject/src/test/resources",
+    "onboarding.tips.debug.path": "D:/WorkT/ITSchool/ProjectTest/CopyAutomationProject/src/main/java/org/example/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\WorkT\ITSchool\ProjectTest\CopyAutomationProject\src\test\resources" />
@@ -52,7 +53,7 @@
       <recent name="D:\WorkT\ITSchool\ProjectTest\CopyAutomationProject\" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.WindowTest.windowMethod">
     <configuration name="AlertsTest.testMethod" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CopyAutomationProject" />
       <extension name="coverage">
@@ -71,8 +72,83 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FrameTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CopyAutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.FrameTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeFormTest.metodaTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CopyAutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.PracticeFormTest" />
+      <option name="METHOD_NAME" value="metodaTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTableTest.metodaTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CopyAutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.WebTableTest" />
+      <option name="METHOD_NAME" value="metodaTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowTest.windowMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CopyAutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.WindowTest" />
+      <option name="METHOD_NAME" value="windowMethod" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.WindowTest.windowMethod" />
+        <item itemvalue="TestNG.WebTableTest.metodaTest" />
+        <item itemvalue="TestNG.PracticeFormTest.metodaTest" />
+        <item itemvalue="TestNG.FrameTest" />
         <item itemvalue="TestNG.AlertsTest.testMethod" />
       </list>
     </recent_temporary>
