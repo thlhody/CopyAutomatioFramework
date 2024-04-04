@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8638a9c-a8e1-4434-88b0-4e3bb7ea6dcb" name="Changes" comment="" />
+    <list default="true" id="d8638a9c-a8e1-4434-88b0-4e3bb7ea6dcb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +41,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "TestNG.AlertsTest.testMethod.executor": "Run",
+    "TestNG.FrameTest.executor": "Run",
+    "TestNG.PracticeFormTest.metodaTest.executor": "Run",
+    "TestNG.WebTableTest.metodaTest.executor": "Run",
+    "TestNG.WindowTest.windowMethod.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/WorkT/ITSchool/ProjectTest/CopyAutomationProject/src/test/resources",
