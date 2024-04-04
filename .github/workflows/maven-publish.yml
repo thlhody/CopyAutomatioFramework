@@ -9,7 +9,7 @@ on:
       browser:
         description: 'Choose browser: chrome, firefox'
         required: true
-        default: 'firefox'
+        default: 'chrome'
       suite:
         description: 'Choose suite: FeaturesSuite, RegressionSuite'
         required: true
