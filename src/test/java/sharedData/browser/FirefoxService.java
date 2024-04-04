@@ -30,7 +30,7 @@ public class FirefoxService implements BrowserService {
         firefoxOptions.addArguments(testData.get("gpu"));
         firefoxOptions.addArguments(testData.get("infobars"));
         firefoxOptions.addArguments(testData.get("extensions"));
-        firefoxOptions.addArguments(testData.get("sandbox"));
+        firefoxOptions.addArguments(testData.get("sendbox"));
         if (!testData.get("headless").isEmpty()) {
             firefoxOptions.addArguments((testData.get("headless")));
         }
