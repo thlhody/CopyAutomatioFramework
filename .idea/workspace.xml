@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8638a9c-a8e1-4434-88b0-4e3bb7ea6dcb" name="Changes" comment="" />
+    <list default="true" id="d8638a9c-a8e1-4434-88b0-4e3bb7ea6dcb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/PracticeFormTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/PracticeFormTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/WebTableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/WebTableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suites/RegressionSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/suites/RegressionSuite.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +62,7 @@
       <recent name="D:\WorkT\ITSchool\ProjectTest\CopyAutomationProject\" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.WindowTest.windowMethod">
+  <component name="RunManager" selected="TestNG.PracticeFormTest.metodaTest">
     <configuration name="AlertsTest.testMethod" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CopyAutomationProject" />
       <extension name="coverage">
@@ -149,9 +154,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PracticeFormTest.metodaTest" />
         <item itemvalue="TestNG.WindowTest.windowMethod" />
         <item itemvalue="TestNG.WebTableTest.metodaTest" />
-        <item itemvalue="TestNG.PracticeFormTest.metodaTest" />
         <item itemvalue="TestNG.FrameTest" />
         <item itemvalue="TestNG.AlertsTest.testMethod" />
       </list>

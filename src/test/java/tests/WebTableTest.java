@@ -12,7 +12,7 @@ public class WebTableTest extends SharedData {
 
     @Test
     public void metodaTest() {
-        PropertyUtility propertyUtility = new PropertyUtility("WebTableData");
+        PropertyUtility propertyUtility = new PropertyUtility("webTableData");
         WebTableObject webTableObject = new WebTableObject(propertyUtility.getAllData());
 
         HomePage homePage = new HomePage(getWebDriver());

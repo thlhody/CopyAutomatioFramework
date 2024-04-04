@@ -12,7 +12,7 @@ public class PracticeFormTest extends SharedData {
 
     @Test
     public void metodaTest() {
-        PropertyUtility propertyUtility = new PropertyUtility("PracticeFormData");
+        PropertyUtility propertyUtility = new PropertyUtility("practiceFormData");
         PracticeFormObject practiceFormObject = new PracticeFormObject(propertyUtility.getAllData());
 
         HomePage homePage = new HomePage(getWebDriver());
