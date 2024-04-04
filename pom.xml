@@ -14,7 +14,7 @@
             <artifactId>selenium-java</artifactId>
             <version>4.19.0</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
